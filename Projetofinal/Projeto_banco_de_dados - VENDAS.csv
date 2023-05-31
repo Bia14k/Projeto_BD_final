@@ -1,0 +1,9 @@
+,,,,,,
+TABELA DE VENDAS,,,,,,
+codigo_venda,id_cliente ,Id_bordado,data_venda,preco,tecido,tempo_medio_fabricacao
+A001,01,017,23/04/2020,70,Linho,20 dias
+A002,05,014,12/08/2021,100,Percal,14 dias 
+A003,04,019,19/01/2021,75,Linho,25 dias
+A004,04,058,07/12/2020,88,Algodao cru,8 dias
+A005,02,057,23/07/2022,95,Etamine,7 dias
+A006,03,071,05/05/2023,89,Linho,3 dias

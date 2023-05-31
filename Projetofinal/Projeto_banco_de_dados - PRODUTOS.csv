@@ -1,0 +1,79 @@
+TABELA DE PRODUTOS,,,,,,,
+codigo_bordado,Categoria,nome_risco,tipo_tecido,qnt_estoque_bordado,tipo_bordado,metragem,preco
+001,manual,Ponto Cruz,Etamine,,toalha de mesa ,"1,5 m",60
+002,manual,Ponto Cruz,Algodão cru,,toalha de mesa ,"1,5 m",62
+003,manual,Ponto Cruz,Linho ,,toalha de mesa ,"1,5 m",65
+004,manual,Ponto Cruz,Etamine,,toalha de mesa ,2,70
+005,manual,Ponto Cruz,Algodão cru,,toalha de mesa ,2,72
+006,manual,Ponto Cruz,Linho ,,toalha de mesa ,2,75
+007,manual,Ponto Cruz,Etamine,,toalha de mesa ,"2,5",78
+008,manual,Ponto Cruz,Algodão cru,,toalha de mesa ,"2,5",81
+009,manual,Ponto Cruz,Linho ,,toalha de mesa ,"2,5",85
+010,manual,Ponto Cruz,Etamine,,toalha de mesa ,3,88
+011,manual,Ponto Cruz,Algodão cru,,toalha de mesa ,3,91
+012,manual,Ponto Cruz,Linho ,,toalha de mesa ,3,94
+013,semi manual,Rechilieu,Percal,,toalha de mesa ,"1,5 m",97
+014,semi manual,Rechilieu,Percal,,toalha de mesa ,2,100
+015,semi manual,Rechilieu,Percal,,toalha de mesa ,"2,5",103
+016,semi manual,Rechilieu,Percal,,toalha de mesa ,3,65
+017,semi manual,Rechilieu,Linho,,toalha de mesa ,"1,5 m",70
+018,semi manual,Rechilieu,Linho,,toalha de mesa ,2,72
+019,semi manual,Rechilieu,Linho,,toalha de mesa ,"2,5",75
+020,semi manual,Rechilieu,Linho,,toalha de mesa ,3,79
+021,semi manual,Cheio normal,Percal,,toalha de mesa ,"1,5 m",82
+022,semi manual,Cheio normal,Percal,,toalha de mesa ,2,85
+023,semi manual,Cheio normal,Percal,,toalha de mesa ,"2,5",89
+024,semi manual,Cheio normal,Percal,,toalha de mesa ,3,92
+025,semi manual,Cheio normal,Linho,,toalha de mesa ,"1,5 m",95
+026,semi manual,Cheio normal,Linho,,toalha de mesa ,2,88
+027,semi manual,Cheio normal,Linho,,toalha de mesa ,"2,5",91
+028,semi manual,Cheio normal,Linho,,toalha de mesa ,3,94
+029,manual,Ponto Cruz,Etamine,,caminho de mesa,1,97
+030,manual,Ponto Cruz,Algodão cru,,caminho de mesa,1,100
+031,manual,Ponto Cruz,Linho ,,caminho de mesa,1,103
+032,manual,Ponto Cruz,Etamine,,caminho de mesa,1.5,65
+033,manual,Ponto Cruz,Algodão cru,,caminho de mesa,"1,5",70
+034,manual,Ponto Cruz,Linho ,,caminho de mesa,"1,5",72
+035,manual,Ponto Cruz,Etamine,,caminho de mesa,2,75
+036,manual,Ponto Cruz,Algodão cru,,caminho de mesa,2,79
+037,manual,Ponto Cruz,Linho ,,caminho de mesa,2,82
+038,manual,Ponto Cruz,Etamine,,caminho de mesa,"2,5",85
+039,manual,Ponto Cruz,Algodão cru,,caminho de mesa,"2,5",89
+040,manual,Ponto Cruz,Linho ,,caminho de mesa,"2,5",92
+041,semi manual,Rechilieu,Percal,,caminho de mesa,1,95
+042,semi manual,Rechilieu,Percal,,caminho de mesa,"1,5",88
+043,semi manual,Rechilieu,Percal,,caminho de mesa,2,91
+044,semi manual,Rechilieu,Percal,,caminho de mesa,"2,5",94
+045,semi manual,Rechilieu,Linho,,caminho de mesa,1,97
+046,semi manual,Rechilieu,Linho,,caminho de mesa,"1,5",100
+047,semi manual,Rechilieu,Linho,,caminho de mesa,2,103
+048,semi manual,Rechilieu,Linho,,caminho de mesa,"2,5",65
+049,semi manual,Cheio normal,Percal,,caminho de mesa,1,70
+050,semi manual,Cheio normal,Percal,,caminho de mesa,"1,5",72
+051,semi manual,Cheio normal,Percal,,caminho de mesa,2,75
+052,semi manual,Cheio normal,Percal,,caminho de mesa,"2,5",79
+053,semi manual,Cheio normal,Linho,,caminho de mesa,1,82
+054,semi manual,Cheio normal,Linho,,caminho de mesa,"1,5",85
+055,semi manual,Cheio normal,Linho,,caminho de mesa,2,89
+056,semi manual,Cheio normal,Linho,,caminho de mesa,"2,5",92
+057,manual,Ponto Cruz,Etamine,,guardanapos,"0,10",95
+058,manual,Ponto Cruz,Algodão cru,,guardanapos,"0,10",88
+059,manual,Ponto Cruz,Linho ,,guardanapos,"0,10",91
+060,manual,Ponto Cruz,Etamine,,guardanapos,"0,20",94
+061,manual,Ponto Cruz,Algodão cru,,guardanapos,"0,20",97
+062,manual,Ponto Cruz,Linho ,,guardanapos,"0,20",100
+063,manual,Ponto Cruz,Etamine,,guardanapos,"0,30",103
+064,manual,Ponto Cruz,Algodão cru,,guardanapos,"0,30",65
+065,manual,Ponto Cruz,Linho ,,guardanapos,"0,30",70
+066,semi manual,Rechilieu,Percal,,guardanapos,"0,10",72
+067,semi manual,Rechilieu,Percal,,guardanapos,"0,20",75
+068,semi manual,Rechilieu,Percal,,guardanapos,"0,30",79
+069,semi manual,Rechilieu,Linho,,guardanapos,"0,10",82
+070,semi manual,Rechilieu,Linho,,guardanapos,"0,20",85
+071,semi manual,Rechilieu,Linho,,guardanapos,"0,30",89
+072,semi manual,Cheio normal,Percal,,guardanapos,"0,10",92
+073,semi manual,Cheio normal,Percal,,guardanapos,"0,20",95
+074,semi manual,Cheio normal,Percal,,guardanapos,"0,30",88
+075,semi manual,Cheio normal,Linho,,guardanapos,"0,10",91
+076,semi manual,Cheio normal,Linho,,guardanapos,"0,20",94
+077,semi manual,Cheio normal,Linho,,guardanapos,"0,30",97
